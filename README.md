@@ -42,7 +42,7 @@ bootstrap5-advanced/
 ## How to Run the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bootstrap5-advanced.git
+   git clone https://github.com/goosekiing/bootstrap-5-novos-recursos-e-praticas-recomendadas-de-html-css-e-javascript
    ```
 2. Open `index.html` in your web browser to view the web page.
 
